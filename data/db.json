@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new Blog",
+      "body": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "Welcome to the new Blog",
+      "body": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+      "likes": 40
+    },
+    {
+      "id": 3,
+      "title": "Welcome to the new Blog",
+      "body": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+      "likes": 5
+    },
+    {
+      "id": 4,
+      "title": "Welcome to the new Blog",
+      "body": "Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh",
+      "likes": 89
+    },
+    {
+      "title": "Yamaha U1H Upright Piano",
+      "body": "the best ",
+      "likes": 0,
+      "id": 5
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
